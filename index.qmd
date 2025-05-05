@@ -117,7 +117,9 @@ A few reflections from life outside of academia—stories, thoughts, and maybe a
 - 🌐 LinkedIn: [https://www.linkedin.com/in/allison-leanage/]
 - 📰 Bluesky: [https://bsky.app/profile/allisonleanage.bsky.social]
 
+
 ---
+######## *Created by Allison Leanage using Quatro - Last revised: May 5th, 2025*
 
 <style>
 body {
