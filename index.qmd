@@ -119,7 +119,8 @@ A few reflections from life outside of academia—stories, thoughts, and maybe a
 
 
 ---
-######## *Created by Allison Leanage using Quatro - Last revised: May 5th, 2025*
+######## *Created by Allison Leanage using Quatro in RStudio*
+*Last revised: May 5th, 2025*
 
 <style>
 body {
