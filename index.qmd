@@ -8,7 +8,7 @@ format:
     toc-depth: 2
 ---
 
-# Allison S.F. Leanage, PhD {.text-center}
+# Allison S.F. Leanage, PhD {.text-center} 
 
 _Sociologist • Social Psychologist • Researcher • Educator_
 
@@ -20,7 +20,7 @@ _Sociologist • Social Psychologist • Researcher • Educator_
   <br> 
   
 > *"The oak fought the wind and was broken, the willow bent when it must and survived.
-— Robert Jordan - inspired by Taoist philosophy"*
+— Robert Jordan (inspired by Taoist philosophy)"*
 
 
 
@@ -31,7 +31,7 @@ Hello, I’m Allison Leanage — a sociologist and social psychologist with a pa
 
 ---
 
-# About me <i class="fas fa-user"></i>  
+# About me 
  
 I am a Research Analyst at the Social Analysis and Modelling Division at Statistics Canada and a Research Associate at the Centre for Advanced Research on Mental Health and Society. 
 
@@ -53,7 +53,7 @@ I explore how social and economic factors impact across the life course—especi
 
 # Presentations & Talks
 
-Dissemination of knowledge is key. Here you’ll find recent presentations and talks.
+Dissemination of knowledge is key. Here you’ll find recent presentations and talks about my research work.
 
 ### Presentations *(includes upcoming)*:
 - 2025 Coker, S., **Leanage, A.,** Vigo, D., Wang, A., & Miori, T. The Adaptation of a Mental Health Mobile Resource E-Tool for McMaster University Students. Paper accepted at the annual meeting of the Canadian Sociological Association, Toronto, Ontario, Canada.
@@ -78,10 +78,10 @@ A few reflections from life outside of academia—stories, thoughts, and maybe a
 
 #### *Selected Honours & Awards*
 
-- **2023** – *CANStudyUS Fellowship*, Leadership, Toronto Metropolitan University, Toronto, Ontario  
+- **2023** – *CANStudyUS Fellowship*, Toronto Metropolitan University, Toronto, Ontario  
 - **2023** – *McCall MacBain Teaching and Leadership Postdoctoral Fellow*, McMaster University  
 - **2022** – *Valedictorian (invited)*, Faculty of Social Sciences, Legacy Convocation Event, McMaster University  
-  *(In-person convocation for graduates of the COVID-19 pandemic period; unable to attend due to family illness)*  
+  *(In-person convocation for graduates of the pandemic; unable to attend)*  
 - **2021** – *Valedictorian*, Faculty of Business, Humanities and Social Sciences, Fall Convocation, McMaster University  
 - **2020** – *Mary Keyes Award for Outstanding Leadership and Service*, McMaster University  
 - **2018** – *Centre for Research in Empirical Social Sciences Fellowship* (now Spark: A Centre for Social Research Innovation), McMaster University  
