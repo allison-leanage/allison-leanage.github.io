@@ -1,5 +1,11 @@
 {
   "quatro_website.qmd": {
     "quatro_website.html": "80f0fcb8"
+  },
+  "index.Rmd": {
+    "index.html": "d7c1f2e4"
+  },
+  "index.qmd": {
+    "index.html": "883d6c38"
   }
 }
