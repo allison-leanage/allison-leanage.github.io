@@ -12,12 +12,22 @@ format:
 
 _Sociologist • Social Psychologist • Researcher • Educator_
 
+ <p>
+  <a href="https://orcid.org/0000-0002-3371-5614" target="_blank" rel="noopener noreferrer">
+    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" style="vertical-align:middle; margin-right:6px;">
+    ORCID: 0000-0002-3371-5614
+  </a>
+  <br> 
+  
 > *"The oak fought the wind and was broken, the willow bent when it must and survived.
 — Robert Jordan - inspired by Taoist philosophy"*
+
+
 
 # Welcome
 
 Hello, I’m Allison Leanage — a sociologist and social psychologist with a passion for research, teaching, and making knowledge meaningful in people’s lives. My work  the intersections of inequality, education, family, and health. Whether in the classroom or writing policy-relevant research, I’m also a proud daughter, sister, friend, and community member. Welcome to my corner of the internet!
+
 
 ---
 
