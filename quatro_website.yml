@@ -1,4 +1,10 @@
 ---
+project:
+  type: website
+
+website:
+  output-dir: docs
+
 title: ""
 format:
   html:
