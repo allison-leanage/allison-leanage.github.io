@@ -35,7 +35,7 @@ I explore how social and economic factors impact across the life course—especi
 ### Recent Publications:
 - **Leanage, A.,**  Park, S-H., Arim, R. (2025). Uptake of the disability tax credit and the Canada Pension Plan or Quebec Pension Plan disability benefits among persons with disabilities in Canada. *Economic and Social Reports*, Vol 5(3): 1-16. [DOI](https://doi.org/10.25318/36280001202500200001-eng)
 - Stick, M., Hou, F., & **Leanage, A.**  (2025). A comparison of immigrant and Canadian-born data scientists: Sociodemographic characteristics and earnings. *Economic and Social Reports*, Vol 5(2): 1-4. [DOI](https://doi.org/10.25318/36280001202500200003-eng)
-- Arim, R., Kerr, S., **Leanage, A.,** & Findlay, L. (2025). Identification of Children with Disabilities in the Survey on Early Learning and Child Care Arrangements – Children with Long-term Conditions and Disabilities (SELCCA-CLCD). *Analytical Studies: Methods and References*, 55: 1-33.
+- Arim, R., Kerr, S., ** Leanage, A.,**  & Findlay, L. (2025). Identification of Children with Disabilities in the Survey on Early Learning and Child Care Arrangements – Children with Long-term Conditions and Disabilities (SELCCA-CLCD). *Analytical Studies: Methods and References*, 55: 1-33.
 - **Leanage, A.**  & Arim, R. (2025). Through a diverse needs lens: High school students working toward a Dogwood diploma or receiving an Evergreen Certificate in British Columbia. *Economic and Social Reports*, 5(1): 1-11. [DOI](https://doi.org/10.25318/36280001202500100001-eng)
 
 
@@ -43,15 +43,15 @@ I explore how social and economic factors impact across the life course—especi
 
 # Presentations & Talks
 
-I love sharing ideas beyond academia. Here you’ll find recent presentations and talks.
+Here you’ll find recent presentations and talks.
 
 ### Presentations *(includes upcoming)*:
-- **2025** Coker, S., Leanage, A., Vigo, D., Wang, A., & Miori, T. The Adaptation of a Mental Health Mobile Resource E-Tool for McMaster University Students. Paper accepted at the annual meeting of the Canadian Sociological Association, Toronto, Ontario, Canada.
-- **2024** Leanage, A., & Arim, R. Through a diverse needs lens: High school students working toward a Dogwood diploma or receiving an Evergreen Certificate in British Columbia. Paper accepted at the annual meeting of the American Sociological Association, Montreal, Quebec, Canada.
+- 2025 Coker, S., **Leanage, A.,** Vigo, D., Wang, A., & Miori, T. The Adaptation of a Mental Health Mobile Resource E-Tool for McMaster University Students. Paper accepted at the annual meeting of the Canadian Sociological Association, Toronto, Ontario, Canada.
+- 2024 **Leanage, A.,** & Arim, R. Through a diverse needs lens: High school students working toward a Dogwood diploma or receiving an Evergreen Certificate in British Columbia. Paper accepted at the annual meeting of the American Sociological Association, Montreal, Quebec, Canada.
 
 ### Selected Talks:
-- **2025** Leanage, A., Jeon, S-H., & Arim, R. Analytical Initiative Project: Take-Up of Disability Tax Credit (DTC) and Canada/Quebec Pension Plan Disability Benefit (C/QPPD) among Persons with Disabilities in Canada. *Statistics Canada Research Forum*, Statistics Canada, Ottawa, Ontario, Canada. 
-- **2023** Leanage, A. & Arim, R. “Through the lens of special needs: High school graduation and postsecondary education of students in British Columbia.” *Spark: A Centre for Social Research Innovation*, McMaster University, Hamilton, Ontario.
+- 2025 **Leanage, A.,** Jeon, S-H., & Arim, R. Analytical Initiative Project: Take-Up of Disability Tax Credit (DTC) and Canada/Quebec Pension Plan Disability Benefit (C/QPPD) among Persons with Disabilities in Canada. *Statistics Canada Research Forum*, Statistics Canada, Ottawa, Ontario, Canada. 
+- 2023 **Leanage, A.** & Arim, R. “Through the lens of special needs: High school graduation and postsecondary education of students in British Columbia.” *Spark: A Centre for Social Research Innovation*, McMaster University, Hamilton, Ontario.
 
 
 ---
@@ -86,4 +86,4 @@ blockquote {
 }
 </style>
 
----
+
