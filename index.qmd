@@ -28,7 +28,7 @@ _Sociologist • Social Psychologist • Researcher • Educator_
 
 
 <div style="float: left; margin-right: 15px;">
-  ![](images/allison.jpg){width=225px style="border-radius: 75%;"}
+  ![](images/allison.jpg){width=185px style="border-radius: 75%;"}
 </div>
 
 <div style="margin-top: 30px;">
