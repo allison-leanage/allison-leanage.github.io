@@ -9,7 +9,6 @@ format:
 ---
 
 # Allison S.F. Leanage, PhD {.text-center} 
-![](images/allison.jpg){width=200px .rounded-circle .mx-auto d-block}
 
 _Sociologist • Social Psychologist • Researcher • Educator_
 
@@ -20,6 +19,9 @@ _Sociologist • Social Psychologist • Researcher • Educator_
   </a>
   <br> 
   
+
+
+
 > *"The oak fought the wind and was broken, the willow bent when it must and survived.
 — Robert Jordan (inspired by Taoist philosophy)"*
 
@@ -27,6 +29,10 @@ _Sociologist • Social Psychologist • Researcher • Educator_
 
 # Welcome
 
+
+<div style="float: left; margin-right: 15px;">
+  ![](images/allison.jpg){width=225px style="border-radius: 75%;"}
+</div>
 Hello, I’m Allison Leanage — a sociologist and social psychologist with a passion for research, teaching, and making knowledge meaningful in people’s lives. My work  the intersections of inequality, education, family, and health. Whether in the classroom or writing policy-relevant research, I’m also a proud daughter, sister, friend, and community member. Welcome to my corner of the internet!
 
 
