@@ -9,6 +9,7 @@ format:
 ---
 
 # Allison S.F. Leanage, PhD {.text-center} 
+![](images/allison.jpg){width=200px .rounded-circle .mx-auto d-block}
 
 _Sociologist • Social Psychologist • Researcher • Educator_
 
